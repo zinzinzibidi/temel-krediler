@@ -21,30 +21,18 @@ Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms
 6. Teknolojik ve Operasyonel Risk
 7. Likidite Riski
 
-**Faiz Riski**: Kredi faiz ortalamasının mevduat faiz ortalamasından düşük olması ve bankanın zarar etmesi durumu
-
-<br>
+* **Faiz Riski**: Kredi faiz ortalamasının mevduat faiz ortalamasından düşük olması ve bankanın zarar etmesi durumu
 
 **Piyasa Riski**: Firmanın geçmiş mali verilerinin iyi olmasına rağmen piyasanın gelecekteki makro ekonomik olaylar yüzünden firma nakit akışını olumsuz etkilemesi ve bankanın alacağını tahsil edememesi olasılığı
 
-<br>
+* **Kredi Riski**: Kredi taksitlerinin vadesinde tahsil edilememesi durumu
 
-**Kredi Riski**: Kredi taksitlerinin vadesinde tahsil edilememesi durumu
+* **Kur Riski:** Kur artışlarından dolayı YP faiz giderlerinin artması, TL faiz spread'in dolayı bankanın zarar etme olasılığı
 
-<br>
-
-**Kur Riski:** Kur artışlarından dolayı YP faiz giderlerinin artması, TL faiz spread'in dolayı bankanın zarar etme olasılığı
-
-<br>
-
-**Ülke Riski**: Ülkenin jeopolitik ya da makro ekonomik nedenlerden dolayı karşılaşacağı risk
+* **Ülke Riski**: Ülkenin jeopolitik ya da makro ekonomik nedenlerden dolayı karşılaşacağı risk
 
 CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.^[CDS: Credit Default Swap, Kredi Temerrüt Takası]
 
-<br>
+* **Teknolojik ve Operasyonel Risk**: Gelişen teknoloji ile internet dolandırıcılığı, phishing gibi banka alacağını olumsuz etkileyen olayların yarattığı risktir.
 
-**Teknolojik ve Operasyonel Risk**: Gelişen teknoloji ile internet dolandırıcılığı, phishing gibi banka alacağını olumsuz etkileyen olayların yarattığı risktir.
-
-<br>
-
-**Likidite Riski**: Kredilerin vadeleri kesindir ve vadesinden önce tahsil edilemez. Fakat mevduatların vade sonunda ya da vadesinden önce bankadan çıkma olasılığı vardır. Özetle, kredi alacaklarının sabit kalması ve mevduatların bankadan çıkması durumunda oluşacak zarara likidite riski denir.
+* **Likidite Riski**: Kredilerin vadeleri kesindir ve vadesinden önce tahsil edilemez. Fakat mevduatların vade sonunda ya da vadesinden önce bankadan çıkma olasılığı vardır. Özetle, kredi alacaklarının sabit kalması ve mevduatların bankadan çıkması durumunda oluşacak zarara likidite riski denir.

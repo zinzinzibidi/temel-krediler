@@ -66,7 +66,7 @@ Müşteriye önce rotatif kredi limiti tahsil edilir. Spot kredilerde olduğu gi
 
 Faiz tahakkukları 3 ayda bir yapılır. Genellikle TLREF faiz oranı kullanılır.
 
->[!example] **Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
+**Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 
 > 01.01.2022 | Müşterinin hesabında bakiye yoktur. 100.000 TL rotatif kredi kullandırdık diyelim.
 

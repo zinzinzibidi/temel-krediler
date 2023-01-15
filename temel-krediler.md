@@ -119,31 +119,41 @@ Türk Ticaret Kanunu'na göre ileri vadeli çek, senet ve poliçe gibi ödeme ar
 
 FV = PV * [1 + (r * t/360)] 
 
-FV: Gelecekteki Değer
-PV: Şimdiki Değer
-r: Faiz Oranı
+<br>
+
+FV: Gelecekteki Değer |
+PV: Şimdiki Değer |
+r: Faiz Oranı |
 t: Vade
 
-100.000 = PV * [1 + (%20 * 80 gün/360)]
-PV = 100.000 / [1 + (.20 * 80/360)]
-PV ~= 95.745 TL
+<br>
+
+100.000 = PV * [1 + (%20 * 80 gün/360)] <br>
+PV = 100.000 / [1 + (.20 * 80/360)] <br>
+PV ~= 95.745 TL <br>
 
 Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yatırırız.
 
 **Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
 
+<br>
+
 FV = PV * [1 + ((r + BSMV + KKDF) * t/360)] 
 
-FV: Gelecekteki Değer
-PV: Şimdiki Değer
-r: Faiz Oranı
-t: Vade
-BSMV: BSMV Oranı
+<br>
+
+FV: Gelecekteki Değer | 
+PV: Şimdiki Değer | 
+r: Faiz Oranı | 
+t: Vade | 
+BSMV: BSMV Oranı | 
 KKDF: KKDF Oranı
 
-100.000 = PV * [1 + ((%20 + %5 + %10) * 80 gün/360))]
-PV = 100.000 / [1 + ((.20 + .05 + .10) * 80/360))]
-PV ~= 92.784 TL
+<br>
+
+100.000 = PV * [1 + ((%20 + %5 + %10) * 80 gün/360))] <br>
+PV = 100.000 / [1 + ((.20 + .05 + .10) * 80/360))] <br>
+PV ~= 92.784 TL <br>
 
 Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yatırırız. Aradaki 7.217 TL'lik fark şubenin brüt geliridir. Vade sonunda şube muhatap firmadan 100.000 TL çekini de tahsil eder.
 

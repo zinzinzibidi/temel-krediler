@@ -36,5 +36,3 @@ Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms
 **Likidite Riski**: Kredilerin vadeleri kesindir ve vadesinden önce tahsil edilemez. Fakat mevduatların vade sonunda ya da vadesinden önce bankadan çıkma olasılığı vardır. Özetle, kredi alacaklarının sabit kalması ve mevduatların bankadan çıkması durumunda oluşacak zarara likidite riski denir.
 
 [^1]: CDS: Credit Default Swap, Kredi Temerrüt Takası
-
-#bankacılık-ve-finans

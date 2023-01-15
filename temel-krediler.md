@@ -68,20 +68,15 @@ Faiz tahakkukları 3 ayda bir yapılır ve genellikle TLREF faiz oranı kullanı
 
 **Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. Öncelikle 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 
-> 01.01.2022 | 
-> Müşterinin hesabında bakiye yoktur. 100.000 TL rotatif kredi kullandırdık diyelim.
+> 01.01.2022 | Müşterinin hesabında bakiye yoktur. 100.000 TL rotati kredi kullandırdık diyelim.
 
-> 12.01.2022 | 
-> Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize gönderdi. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabındaki 30.000 TL kullanılabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
+> 12.01.2022 | Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize gönderdi. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabındaki 30.000 TL kullanılabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
 
-> 25.01.2022 |  
-> Müşteri 50.000 TL EFT yapma talebini şubemize iletti. Şube olarak 50.000 TL'yi EFT yaparız ve kalan bakiye -80.000 TL olur. Diğer bir ifade ile müşterinin bize 80.000 TL borcu vardır.
+> 25.01.2022 | Müşteri 50.000 TL EFT yapma talebini şubemize iletti. Şube olarak 50.000 TL'yi EFT yaparız ve kalan bakiye -80.000 TL olur. Diğer bir ifade ile müşterinin bize 80.000 TL borcu vardır.
 
-> 18.03.2022 | 
-> 90.000 TL'yi başka bankadan EFT ile şubemize gönderir. Hesabı +10.000 TL olur. 18 Mart tarihinde müşterimizin kredisini tahsil etmişizdir ama henüz rotatif kredinin faizini tahsil etmemişizdir.
+> 18.03.2022 | 90.000 TL'yi başka bankadan EFT ile şubemize gönderir. Hesabı +10.000 TL olur. 18 Mart tarihinde müşterimizin kredisini tahsil etmişizdir ama henüz rotatif kredinin faizini tahsil etmemişizdir.
 
-> 31.03.2022 | 
-> Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredi hesabına yansıtılır.
+> 31.03.2022 | Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredi hesabına yansıtılır.
 
 TLREF 31 Mart 2022 tarihinde %10 olsun.
 

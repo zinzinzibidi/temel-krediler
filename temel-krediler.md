@@ -90,7 +90,8 @@ Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ~= 542 TL
 18.03.2022 - 25.01.2022 = 52 gün
 Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ~= 722 TL
 
-31.03.2022 tarihinde müşteri hesabına ~1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer. 100.000 TL'lik rotatif kredi limiti yıl sonuna kadar devam etmektedir.
+31.03.2022 tarihinde müşteri hesabına 542 + 722 ~=1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer. 100.000 TL'lik rotatif kredi limiti yıl sonuna kadar devam etmektedir.
+
 
 
 

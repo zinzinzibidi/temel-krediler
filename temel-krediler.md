@@ -1,5 +1,4 @@
 # TEMEL KREDİLER
-
 Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms/main/activity/9011)
 
 ---
@@ -70,28 +69,29 @@ Faiz tahakkukları 3 ayda bir yapılır ve genellikle TLREF faiz oranı kullanı
 **Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. Öncelikle 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 
 > 01.01.2022
-> Müşterinin hesabında bakiye yoktur. 100.000 TL rotatif kredi kullandırdık.
+> Müşterinin hesabında bakiye yoktur. 100.000 TL rotatif kredi kullandırdık diyelim.
 
 > 12.01.2022
-> Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize gönderdi. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabından 30.000 TL'yi kullanabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
+> Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize gönderdi. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabındaki 30.000 TL kullanılabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
 
 > 25.01.2022 
-> Müşteri 50.000 TL EFT yapma talebini iletti. Şube olarak 50.000 TL'yi EFT yaparız ve bakiye -80.000 TL olur. Diğer bir ifade ile müşterinin bize 80.000 TL borcu vardır.
+> Müşteri 50.000 TL EFT yapma talebini şubemize iletti. Şube olarak 50.000 TL'yi EFT yaparız ve kalan bakiye -80.000 TL olur. Diğer bir ifade ile müşterinin bize 80.000 TL borcu vardır.
 
 > 18.03.2022
-> 90.000 TL parayı başka bankadan EFT ile bankamıza gönderiyor. Hesabı +10.000 TL oluyor. 18 Mart tarihinde müşterimizin kredisini tahsil ettik ama henüz faiz tahsil etmedik.
+> 90.000 TL'yi başka bankadan EFT ile şubemize gönderir. Hesabı +10.000 TL olur. 18 Mart tarihinde müşterimizin kredisini tahsil etmişizdir ama henüz rotatif kredinin faizini tahsil etmemişizdir.
 
 > 31.03.2022
 > Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredi hesabına yansıtılır.
 
-18.03.2022 - 12.01.2022 = 65 gün, TLREF 18 Mart tarihinde %10 olsun.
+TLREF 31 Mart 2022 tarihinde %10 olsun.
+
+18.03.2022 - 12.01.2022 = 65 gün
 Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ~= 542 TL
 
 18.03.2022 - 25.01.2022 = 52 gün
 Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ~= 722 TL
 
 31.03.2022 tarihinde müşteri hesabına 542 + 722 ~=1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer. 100.000 TL'lik rotatif kredi limiti yıl sonuna kadar devam etmektedir.
-
 
 
 

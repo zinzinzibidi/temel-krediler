@@ -76,7 +76,7 @@ Faiz tahakkukları 3 ayda bir yapılır ve genellikle TLREF faiz oranı kullanı
 
 > 18.03.2022 | 90.000 TL'yi başka bankadan EFT ile şubemize gönderir. Hesabı +10.000 TL olur. 18 Mart tarihinde müşterimizin kredisini tahsil etmişizdir ama henüz rotatif kredinin faizini tahsil etmemişizdir.
 
-> 31.03.2022 | Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredi hesabına yansıtılır.
+> 31.03.2022 | Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredinin bağlı olduğu hesaba yansıtılır. (Bu hesap genellikle açık hesap olmaktadır.)
 
 TLREF 31 Mart 2022 tarihinde %10 olsun.
 

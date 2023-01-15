@@ -50,7 +50,7 @@ Krediler ikiye ayrılır:
 
 Gayrinakdi krediler bilanço dışı kalemde, 900'lü nazım hesaplarda takip edilir.
 
-Bankaların gayrinakdi kredi kullandırma amacı komisyon geliri elde etmektir.
+Bankaların gayrinakdi kredi kullandırma amacı faiz gelirinden ziyade komisyon geliri elde etmektir.
 
 Firma vade sonunda taahhütünü yerine getirmezse gayrinakdi kredi nakdi krediye dönüşür ve firma bu krediyi ödeme yükümlülüğü altına girer.
 

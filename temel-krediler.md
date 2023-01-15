@@ -39,7 +39,7 @@ CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.[^1]
 
 ## Kredi Çeşitleri
 
-Krediler 2'ye ayrılır.
+Krediler 2'ye ayrılır:
 
 1. Nakdi Krediler
 2. Gayrinakdi Krediler

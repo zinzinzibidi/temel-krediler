@@ -68,7 +68,7 @@ Faiz tahakkukları 3 ayda bir yapılır. Genellikle TLREF faiz oranı kullanıl�
 
 **Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 
-> 01.01.2022 | Müşterinin hesabında bakiye yoktur. 100.000 TL rotati kredi kullandırdık diyelim.
+> 01.01.2022 | Müşterinin hesabında bakiye yoktur. 100.000 TL rotatif kredi kullandırdık diyelim.
 
 > 12.01.2022 | Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize gönderdi. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabındaki 30.000 TL kullanılabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
 

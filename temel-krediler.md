@@ -54,6 +54,8 @@ Bankaların gayrinakdi kredi kullandırma amacı faiz gelirinden ziyade komisyon
 
 Firma vade sonunda taahhütünü yerine getirmezse gayrinakdi kredi nakdi krediye dönüşür ve firma bu krediyi ödeme yükümlülüğü altına girer.
 
+<br>
+
 ### Nakdi Krediler
 
 #### 1. Rotatif Krediler

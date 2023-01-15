@@ -29,8 +29,10 @@ Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms
 
 **Kur Riski:** Kur artışlarından dolayı YP faiz giderlerinin artması, TL faiz spread'in dolayı bankanın zarar etme olasılığı
 
-**Ülke Riski**: Ülkenin jeopolitik ya da makro ekonomik nedenlerden dolayı karşılaşacağı risk. CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.^[CDS: Credit Default Swap, Kredi Temerrüt Takası]
+**Ülke Riski**: Ülkenin jeopolitik ya da makro ekonomik nedenlerden dolayı karşılaşacağı risk. CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.^[1]
 
 **Teknolojik ve Operasyonel Risk**: Gelişen teknoloji ile internet dolandırıcılığı, phishing gibi banka alacağını olumsuz etkileyen olayların yarattığı risktir.
 
 **Likidite Riski**: Kredilerin vadeleri kesindir ve vadesinden önce tahsil edilemez. Fakat mevduatların vade sonunda ya da vadesinden önce bankadan çıkma olasılığı vardır. Özetle, kredi alacaklarının sabit kalması ve mevduatların bankadan çıkması durumunda oluşacak zarara likidite riski denir.
+
+^1: CDS: Credit Default Swap, Kredi Temerrüt Takası

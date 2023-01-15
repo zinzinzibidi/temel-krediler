@@ -116,6 +116,8 @@ Türk Ticaret Kanunu'na göre ileri vadeli çek, senet ve poliçe gibi ödeme ar
 
 İskonto, çekin, senedin ya da poliçenin şubemizle aynı belediye sınırında; iştira ise bu ödeme araçlarının farklı belediye sınırında keşide edilmesini belirtir.
 
+<br>
+
 **Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim.
 <br>
 

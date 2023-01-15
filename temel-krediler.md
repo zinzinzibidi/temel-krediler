@@ -64,7 +64,7 @@ Değişken faizli olması sebebiyle rotatif kredi olarak adlandırılır.
 
 Müşteriye önce rotatif kredi limiti tahsil edilir. Spot kredilerde olduğu gibi para müşterinin hesabına yatırılmaz.
 
-Faiz tahakkukları 3 ayda bir yapılır ve genellikle TLREF faiz oranı kullanılır.
+Faiz tahakkukları 3 ayda bir yapılır. Genellikle TLREF faiz oranı kullanılır.
 
 **Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. Öncelikle 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 

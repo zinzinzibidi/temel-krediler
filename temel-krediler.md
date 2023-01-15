@@ -78,7 +78,7 @@ Faiz tahakkukları 3 ayda bir yapılır ve genellikle TLREF faiz oranı kullanı
 
 > 31.03.2022 | Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredinin bağlı olduğu hesaba yansıtılır. (Bu hesap genellikle açık hesap olmaktadır.)
 
-TLREF 31 Mart 2022 tarihinde %10 olsun.
+31 Mart 2022 tarihinde TLREF %10 olsun. (Kolaylık olması amacıyla kredi komisyonunu hesaplamaya dahil etmeyelim.)
 
 18.03.2022 - 12.01.2022 = 65 gün
 Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ~= 542 TL

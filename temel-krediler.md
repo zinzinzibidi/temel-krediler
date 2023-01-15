@@ -140,7 +140,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yat�
 **Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
 <br>
 
-FV = PV * [1 + ((r + BSMV + KKDF) * t/360))] 
+FV = PV * [1 + ((r + BSMV + KKDF) * t/360)] 
 <br>
 
 FV: Gelecekteki Değer | 
@@ -151,8 +151,8 @@ BSMV: BSMV Oranı |
 KKDF: KKDF Oranı
 <br>
 
-100.000 = PV * [1 + ((%20 + %5 + %10) * 80 gün/360))] <br>
-PV = 100.000 / [1 + ((.20 + .05 + .10) * 80/360))] <br>
+100.000 = PV * [1 + ((%20 + %5 + %10) * 80 gün/360)] <br>
+PV = 100.000 / [1 + ((.20 + .05 + .10) * 80/360)] <br>
 PV ~= 92.784 TL <br>
 
 Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yatırırız. Aradaki 7.217 TL'lik fark şubenin brüt geliridir. Vade sonunda şube muhatap firmadan 100.000 TL çekini tahsil eder. Toplamda 100.000 TL + 7.217 = 107.217 TL gelir elde eder.

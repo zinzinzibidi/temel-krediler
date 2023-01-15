@@ -140,7 +140,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yat�
 **Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
 <br>
 
-FV = PV * [1 + ((r + BSMV + KKDF) * t/360)] 
+FV = PV * [1 + ((r + BSMV + KKDF) * t/360))] 
 <br>
 
 FV: Gelecekteki Değer | 

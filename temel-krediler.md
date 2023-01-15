@@ -6,7 +6,7 @@ Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms
 ## Banka Bilançosu ve Kredi
 
 * Krediler bilançonun aktifinde, mevduat ise pasifinde bulunur.
-* Kredileri teminatın değerine göre değil güvendiğimiz kişilere göre verilir.
+* Kredileri teminatın değerine göre değil güvendiğimiz kişilere veririz.
 
 ---
 

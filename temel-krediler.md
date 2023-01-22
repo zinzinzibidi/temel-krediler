@@ -187,7 +187,7 @@ formülü ile hesaplanır.
 
 <br>
 
-Hesaplamaya daima en sondan başlarız.
+Hesaplamaya daima sondan başlarız.
 
 <br>
 

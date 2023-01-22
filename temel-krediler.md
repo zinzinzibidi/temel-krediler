@@ -173,6 +173,48 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yat�
 
 <br>
 
+#### 4. AET Kredileri
+
+Aylık Eşit Taksitli Krediler, kısaca AET Kredileri, hesaplanması karşmaşık fakat müşteriye sunulması basit kredilerdir. Taksit tutarları, vadeleri ve faiz oranları sabittir. 6 aylık, 12 aylık gibi ödemesiz dönemleri olabilir.
+
+Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı)^Vade)))
+
+formülü ile hesaplanır.
+
+<br>
+
+**Örnek (5)**: Faiz oranı aylık %0.69 olan 36 ay vadeli 2.000.000 TL tutarlı kredinin taksit tutarı nedir? (BSMV ve KKDF'yi dahil etmeyelim)
+
+<br>
+
+Hesaplamaya daima en sondan başlarız.
+
+<br>
+
+Taksit Tutarı = 2.000.000 TL * %0.69 / (1 - (1 / ((1 + 0.0069)^36 Ay)))
+<br>
+= 2000000 * 0.0069 / (1 - (1 / ((1 + 0.0069)^36)))
+<br>
+= 2000000 * 0.0069 / (1 - (1 / 1.0069^36))
+<br>
+= 2000000 * 0.0069 / (1 - (1 / 1.2809))
+<br>
+= 2000000 * 0.0069 / (1 - 0.7807)
+<br>
+= 2000000 * 0.0069 / 0.2193
+<br>
+~= 62.927 TL
+<br>
+Hesaplamanın doğruluğunu yüzeysel kontrol etmek için taksit tutarını vade ile çarparız.
+<br>
+62.927 * 36 ay ~= 2.265.390 TL
+<br>
+Özetle, 2.000.000 TL'lik kredinin müşteri için 36 aylık faiz gideri toplamı 265.390 TL'dir diyebiliriz. 265.390 TL'lik tutar bizim için brüt faiz geliridir.
+
+
+
+
+
 
 
 

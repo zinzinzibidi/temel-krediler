@@ -26,14 +26,14 @@ Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms
 
 **Kredi Riski**: Kredi taksitlerinin vadesinde tahsil edilememesi durumu
 
-**Kur Riski:** Kur artışlarından dolayı YP faiz giderlerinin artması, TL faiz spread'in dolayı bankanın zarar etme olasılığı
+**Kur Riski:** Kur artışlarından dolayı YP faiz giderlerinin artması, TL faiz spread'inden dolayı bankanın zarar etme olasılığı
 
 **Ülke Riski**: Ülkenin jeopolitik ya da makro ekonomik nedenlerden dolayı karşılaşacağı risk.
 CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.[^1]
 
 **Teknolojik ve Operasyonel Risk**: Gelişen teknoloji ile internet dolandırıcılığı, phishing gibi banka alacağını olumsuz etkileyen olayların meydana getirdiği risktir.
 
-**Likidite Riski**: Kredilerin vadeleri kesindir ve vadesinden önce tahsil edilemez. Fakat mevduatların vade sonunda ya da vadesinden önce bankadan çıkma olasılığı vardır. Özetle, kredi alacaklarının sabit kalması ve mevduatların bankadan çıkması durumunda oluşacak zarara likidite riski denir.
+**Likidite Riski**: Kredilerin vadeleri kesindir ve vadesinden önce tahsil edilemez. Fakat mevduatların vade sonunda ya da vadesinden önce bankadan çıkma olasılığı vardır. Özetle, kredi alacaklarının sabit kalmasına rağmen mevduatların bankadan çıkması durumundaki zarar olasılığına likidite riski denir.
 
 ---
 
@@ -46,7 +46,7 @@ Krediler ikiye ayrılır:
 
 **Nakdi Krediler**: Banka bilançosunda nakit çıkışı yaratan kredilerdir.
 
-**Gayrinakdi Krediler**: Banka bilançosunda yer almayan fakat bankanın firmanın işi yapması için kefil olduğu kredilerdir.
+**Gayrinakdi Krediler**: Banka bilançosunda yer almayan fakat bankanın firmanın işini tamamlaması için kefil olduğu kredilerdir.
 
 Gayrinakdi krediler bilanço dışı kalemde, 900'lü nazım hesaplarda takip edilir.
 

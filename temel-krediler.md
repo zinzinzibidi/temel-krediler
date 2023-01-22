@@ -92,7 +92,9 @@ Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ~= 542 TL
 18.03.2022 - 25.01.2022 = 52 gün
 Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ~= 722 TL
 
-31.03.2022 tarihinde müşteri hesabına 542 + 722 ~=1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer. 100.000 TL'lik rotatif kredi limiti yıl sonuna kadar devam etmektedir.
+31.03.2022 tarihinde müşteri hesabına 542 + 722 ~=1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer.
+
+100.000 TL'lik rotatif kredi limiti yıl sonuna kadar devam etmektedir.
 
 <br>
 
@@ -100,7 +102,7 @@ Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ~= 722 TL
 
 Vade başında müşteriye verilen ve vade sonunda anapara + faiz tutarı ile tahsil edilen kredi türüdür. Çok kısa vadelidir. En çok mal alımında kullanılır.
 
-Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşterimizin nakit döngüsü 40 gün ise 40 vadeli spot kredi kullandırmalıyız. 10 gün ya da 90 gün gün süreli spot kredi kullandırmamalıyız. Bu sebeple spot kredide vade çok hassastır ve önemlidir.
+Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşterimizin nakit döngüsü 40 gün ise 40 gün vadeli spot kredi kullandırmalıyız. 10 gün ya da 90 gün gün süreli spot kredi kullandırmamalıyız. Bu sebeple spot kredide vade çok hassastır ve önemlidir.
 
 **Örnek**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Bizde müşterimize krediyi tahsil edelim. Faiz oranı %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF vergilerini dahil etmeyelim.)
 
@@ -125,28 +127,33 @@ Türk Ticaret Kanunu'na göre ileri vadeli çek, senet ve poliçe gibi ödeme ar
 <br>
 
 **Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim.
+
 <br>
 
 FV = PV * [1 + (r * t/360)] 
 <br>
 
-FV: Gelecekteki Değer |
-PV: Şimdiki Değer |
+FV: Future Value, Gelecekteki Değer |
+PV: Present Value, Şimdiki Değer |
 r: Faiz Oranı |
 t: Vade
+
 <br>
 
 100.000 = PV * [1 + (%20 * 80 gün/360)] <br>
 PV = 100.000 / [1 + (.20 * 80/360)] <br>
 PV ~= 95.745 TL <br>
 
-Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yatırırız. 
+Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yatırırız.
+
 <br><br>
 
-**Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
+**Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
+
 <br>
 
-FV = PV * [1 + ((r + BSMV + KKDF) * t/360)] 
+FV = PV * [1 + ((r + BSMV + KKDF) * t/360)]
+
 <br>
 
 FV: Gelecekteki Değer | 
@@ -155,13 +162,15 @@ r: Faiz Oranı |
 t: Vade | 
 BSMV: BSMV Oranı | 
 KKDF: KKDF Oranı
+
 <br>
 
 100.000 = PV * [1 + ((%20 + %5 + %10) * 80 gün/360)] <br>
 PV = 100.000 / [1 + ((.20 + .05 + .10) * 80/360)] <br>
 PV ~= 92.784 TL <br>
 
-Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yatırırız. Aradaki 7.217 TL'lik fark şubenin brüt geliridir. Vade sonunda şube muhatap firmadan 100.000 TL çekini tahsil eder. Toplamda 100.000 TL + 7.217 = 107.217 TL gelir elde eder.
+Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yatırırız. Aradaki 7.217 TL'lik fark şubenin net geliridir. Vade sonunda şube muhatap firmadan 100.000 TL çekini tahsil eder. Toplamda 100.000 TL + 7.217 = 107.217 TL gelir elde eder.
+
 <br>
 
 

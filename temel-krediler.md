@@ -206,10 +206,11 @@ Taksit Tutarı = 2.000.000 TL * %0.69 / (1 - (1 / ((1 + 0.0069)^36 Ay)))
 ~= 62.927 TL
 <br>
 Hesaplamanın doğruluğunu yüzeysel kontrol etmek için taksit tutarını vade ile çarparız.
-<br>
+<br><br>
 62.927 * 36 ay ~= 2.265.390 TL
-<br>
+<br><br>
 Özetle, 2.000.000 TL'lik kredinin müşteri için 36 aylık faiz gideri toplamı 265.390 TL'dir diyebiliriz. 265.390 TL'lik tutar bizim için brüt faiz geliridir.
+<br><br>
 
 
 

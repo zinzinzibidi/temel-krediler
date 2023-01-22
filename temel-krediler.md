@@ -52,7 +52,7 @@ Gayrinakdi krediler bilanço dışı kalemde, 900'lü nazım hesaplarda takip ed
 
 Bankaların gayrinakdi kredi kullandırma amacı faiz gelirinden ziyade komisyon geliri elde etmektir.
 
-Firma vade sonunda taahhütünü yerine getirmezse gayrinakdi kredi nakdi krediye dönüşür ve firma bu krediyi ödeme yükümlülüğü altına girer.
+Firma vade sonunda taahhüdünü yerine getirmezse gayrinakdi kredi nakdi krediye dönüşür, firma bu krediyi ödeme yükümlülüğü altına girer.
 
 <br>
 
@@ -64,23 +64,27 @@ BCH (Borçlu Cari Hesap) kredisi adı da verilir. Türk Ticaret Kanunu'na göre 
 
 Değişken faizli olması sebebiyle rotatif kredi olarak adlandırılır.
 
-Müşteriye önce rotatif kredi limiti tahsil edilir. Spot kredilerde olduğu gibi para müşterinin hesabına yatırılmaz.
+Müşteriye önce rotatif kredi limiti tahsil edilir. Spot kredilerde olduğu gibi para müşterinin hesabına doğrudan yatırılmaz.
 
 Faiz tahakkukları 3 ayda bir yapılır. Genellikle TLREF faiz oranı kullanılır.
 
 **Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 
-> 01.01.2022 | Müşterinin hesabında bakiye yoktur. 100.000 TL rotatif kredi kullandırdık diyelim.
+> 01.01.2022 | Müşterinin hesabında bakiye yoktur.
 
-> 12.01.2022 | Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize gönderdi. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabındaki 30.000 TL kullanılabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
+> 12.01.2022 | Müşteri 30.000 TL'lik çekinin ödenme talebini şubemize iletti. Müşterinin hesabında bakiye olmamasına rağmen rotatif kredi hesabındaki 30.000 TL kullanılabilir. Müşteri kabul ederse hesap bakiyesi -30.000 TL olur.
 
-> 25.01.2022 | Müşteri 50.000 TL EFT yapma talebini şubemize iletti. Şube olarak 50.000 TL'yi EFT yaparız ve kalan bakiye -80.000 TL olur. Diğer bir ifade ile müşterinin bize 80.000 TL borcu vardır.
+> 25.01.2022 | Müşteri 50.000 TL EFT yapma talebini şubemize iletti. Şube olarak 50.000 TL EFT işlemini yaparız. Kalan bakiye -80.000 TL olur. Diğer bir ifade ile müşterinin bize 80.000 TL borcu vardır.
 
 > 18.03.2022 | 90.000 TL'yi başka bankadan EFT ile şubemize gönderir. Hesabı +10.000 TL olur. 18 Mart tarihinde müşterimizin kredisini tahsil etmişizdir ama henüz rotatif kredisinin faizini tahsil etmemişizdir.
 
-> 31.03.2022 | Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır ve rotatif kredinin bağlı olduğu hesaba yansıtılır. (Bu hesap genellikle açık hesap olmaktadır.)
+> 31.03.2022 | Rotatif kredilerde faiz tahakkukları 3 ayda bir gerçekleştiği için 18 Mart'a kadar olan tüm kredi faizleri hesaplanır, rotatif kredinin bağlı olduğu hesaba yansıtılır. (Bu hesap genellikle açık hesap olmaktadır.)
 
-31 Mart 2022 tarihinde TLREF %10 olsun. (Kolaylık olması amacıyla kredi komisyonunu hesaplamaya dahil etmeyelim.)
+Faiz tahakkukunu hesaplayalım...
+
+31 Mart 2022 tarihinde TLREF %10 olsun. (Kolaylık olması amacıyla kredi komisyonunu ve vergileri hesaplamaya dahil etmeyelim.)
+
+Gün hesaplamaları için: [timeanddate.com](https://www.timeanddate.com/date/timeduration.html)
 
 18.03.2022 - 12.01.2022 = 65 gün
 Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ~= 542 TL

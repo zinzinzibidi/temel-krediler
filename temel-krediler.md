@@ -68,7 +68,7 @@ Müşteriye önce rotatif kredi limiti tahsil edilir. Spot kredilerde olduğu gi
 
 Faiz tahakkukları 3 ayda bir yapılır. Genellikle TLREF faiz oranı kullanılır.
 
-**Örnek**: Müşteriye 100.000 TL rotatif kredi kullandıralım. 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
+**Örnek (1)**: Müşteriye 100.000 TL rotatif kredi kullandıralım. 100.000 TL müşterinin hesabına limit adıyla tanımlanır. Müşterinin 100.000 TL rotatif kredi limiti oluşturulur.
 
 > 01.01.2022 | Müşterinin hesabında bakiye yoktur.
 
@@ -104,7 +104,7 @@ Vade başında müşteriye verilen ve vade sonunda anapara + faiz tutarı ile ta
 
 Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşterimizin nakit döngüsü 40 gün ise 40 gün vadeli spot kredi kullandırmalıyız. 10 gün ya da 90 gün gün süreli spot kredi kullandırmamalıyız. Bu sebeple spot kredide vade çok hassastır ve önemlidir.
 
-**Örnek**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Bizde müşterimize krediyi tahsil edelim. Faiz oranı %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF vergilerini dahil etmeyelim.)
+**Örnek (2)**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Bizde müşterimize krediyi tahsil edelim. Faiz oranı %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF vergilerini dahil etmeyelim.)
 
 > 07.10.2023 | Müşterimize 80.000 TL'yi verdik. Para müşterinin hesabına yatırılır.
 
@@ -126,7 +126,7 @@ Türk Ticaret Kanunu'na göre ileri vadeli çek, senet ve poliçe gibi ödeme ar
 
 <br>
 
-**Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim.
+**Örnek (3)**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli bir çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim.
 
 <br>
 
@@ -148,7 +148,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yat�
 
 <br><br>
 
-**Örnek**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
+**Örnek (4)**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
 
 <br>
 

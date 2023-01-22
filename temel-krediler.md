@@ -204,7 +204,7 @@ Taksit Tutarı = 2.000.000 TL * %0.69 / (1 - (1 / ((1 + 0.0069)^36 Ay)))
 = 2000000 * 0.0069 / 0.2193
 <br>
 ~= 62.927 TL
-<br>
+<br><br>
 Hesaplamanın doğruluğunu yüzeysel kontrol etmek için taksit tutarını vade ile çarparız.
 <br><br>
 62.927 * 36 ay ~= 2.265.390 TL

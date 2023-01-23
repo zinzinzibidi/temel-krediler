@@ -49,7 +49,7 @@ Kredi çeşitlerine geçmeden önce hesaplamalarda kullanacağımız birkaç not
 
 anlamına gelmektedir.
 
-Android kullanıcıları ücretsiz sunulan [Bilimsel hesap makinesi 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus&hl=tr&gl=tr)'i hesaplamalarında kullanabilir.
+Android kullanıcıları ücretsiz sunulan [Bilimsel hesap makinesi 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus&hl=tr&gl=tr)'i, [Panecal Scientific Calculator](https://apps.apple.com/tr/app/panecal-scientific-calculator/id668500803)'ı hesaplamalarında kullanabilir.
 
 ---
 

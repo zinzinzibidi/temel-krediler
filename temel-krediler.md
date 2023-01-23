@@ -41,11 +41,11 @@ CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.[^1]
 
 Kredi çeşitlerine geçmeden önce hesap makinelerinde kullanılan birkaç notasyona değinmekte fayda var.
 
-* (çarpım)<br>
-/ (bölüm)<br>
-^ (üzeri)<br>
-~ (yaklaşık)<br>
-≈ (yaklaşık eşittir)<br><br>
+<code>*</code> (çarpım)<br>
+<code>/</code> (bölüm)<br>
+<code>^</code> (üzeri)<br>
+<code>~</code> (yaklaşık)<br>
+<code>≈</code> (yaklaşık eşittir)<br>
 
 anlamına gelmektedir.
 

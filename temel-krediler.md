@@ -185,7 +185,7 @@ formülü ile hesaplanır.
 
 <br>
 
-**Örnek (5)**: Faiz oranı aylık %0.69 olan 36 ay vadeli 2.000.000 TL tutarlı kredinin taksit tutarı nedir? (BSMV ve KKDF'yi dahil etmeyelim)
+**Örnek (5)**: Faiz oranı aylık %0,69 olan 36 ay vadeli 2.000.000 TL tutarlı kredinin taksit tutarı nedir? (BSMV ve KKDF'yi dahil etmeyelim)
 
 <br>
 
@@ -220,7 +220,7 @@ BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Deste
 
 <br>
 
-**Örnek (6)**: Faiz oranı aylık %1.14 olan 120 ay vadeli 4.000.000 TL tutarlı kredinin taksit tutarı nedir? (BSMV %5, KKDF %0)
+**Örnek (6)**: Faiz oranı aylık %1,14 olan 120 ay vadeli 4.000.000 TL tutarlı kredinin taksit tutarı nedir? (BSMV %5, KKDF %0)
 
 <br>
 

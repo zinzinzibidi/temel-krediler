@@ -1,4 +1,4 @@
-# TİCARÎ KREDİLER (Temel Düzey)
+# TİCARİ KREDİLER
 Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms/main/activity/9011)
 
 ---

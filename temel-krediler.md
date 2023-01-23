@@ -39,7 +39,7 @@ CDS Primi, ülke riskini ölçen en iyi göstergelerden biridir.[^1]
 
 ## Notasyonlar
 
-Kredi çeşitlerine geçmeden önce hesap makinelerinde kullanılan birkaç notasyona değinmekte fayda var.
+Kredi çeşitlerine geçmeden önce hesaplamalarda kullanacağımız birkaç notasyona değinmekte fayda var.
 
 <code>*</code> (çarpım)<br>
 <code>/</code> (bölüm)<br>

@@ -100,9 +100,9 @@ Faiz Tutarı = 50.000 TL * 52 gün * %10 / 360 ≈ 722 TL
 
 #### 2. Spot Krediler
 
-Vade başında müşteriye verilen ve vade sonunda anapara + faiz tutarı ile tahsil edilen kredi türüdür. Çok kısa vadelidir. En çok mal alımında kullanılır.
+Vade başında müşteriye verilen ve vade sonunda anapara + faiz tutarı ile tahsil edilen kredi türüdür. Çok kısa vadelidir. Sıklıkla firmaların ara malı ya da mal alımlarında kullanılır.
 
-Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşterimizin nakit döngüsü 40 gün ise 40 gün vadeli spot kredi kullandırmalıyız. 10 gün ya da 90 gün gün süreli spot kredi kullandırmamalıyız. Bu sebeple spot kredide vade çok hassastır ve önemlidir.
+Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşterimizin nakit döngüsü 40 gün ise 40 gün vadeli spot kredi kullandırmalıyız. 10 gün ya da 90 gün süreli spot kredi kullandırmamalıyız. Bu sebeple spot kredide vade çok hassastır ve önemlidir.
 
 **Örnek (2)**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Bizde müşterimize krediyi tahsil edelim. Faiz oranı %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF vergilerini dahil etmeyelim.)
 

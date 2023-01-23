@@ -87,10 +87,10 @@ Faiz tahakkukunu hesaplayalım...
 Gün hesaplamaları için: [timeanddate.com](https://www.timeanddate.com/date/timeduration.html)
 
 18.03.2022 - 12.01.2022 = 65 gün
-Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ≈ 542 TL
+Faiz Tutarı = 30.000 TL * 65 gün * %10 / 360 ≈ 542 TL
 
 18.03.2022 - 25.01.2022 = 52 gün
-Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ≈ 722 TL
+Faiz Tutarı = 50.000 TL * 52 gün * %10 / 360 ≈ 722 TL
 
 31.03.2022 tarihinde müşteri hesabına 542 + 722 ~=1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer.
 
@@ -130,7 +130,7 @@ Türk Ticaret Kanunu'na göre ileri vadeli çek, senet ve poliçe gibi ödeme ar
 
 <br>
 
-FV = PV * [1 + (r * t/360)] 
+<code>FV = PV * [1 + (r * t/360)]</code>
 <br>
 
 FV: Future Value, Gelecekteki Değer |
@@ -152,7 +152,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yat�
 
 <br>
 
-FV = PV * [1 + ((r + BSMV + KKDF) * t/360)]
+<code>FV = PV * [1 + ((r + BSMV + KKDF) * t/360)]</code>
 
 <br>
 
@@ -177,7 +177,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yat�
 
 Aylık Eşit Taksitli Krediler, kısaca AET Kredileri, hesaplanması karmaşık, anlaşılması kolay kredilerdir. Taksit tutarları, vadeleri ve faiz oranları sabittir. 6 aylık, 12 aylık gibi ödemesiz dönemleri olabilir. Adından da anlaşılacağı üzere müşteriye her ay eşit tutarlı taksitler sunulur. AET kredilerinin en büyük özelliği, ödendikçe anaparasının azalmasından kaynaklı faiz tutarının da azalmasıdır. Bu sebeple müşteri vade sonuna doğru daha az faiz öderken, şubemiz de aynı şekilde daha az faiz geliri elde etmektedir.
 
-Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı)^Vade)))
+<code>Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı)^Vade)))</code>
 
 formülü ile hesaplanır.
 

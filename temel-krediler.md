@@ -175,7 +175,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yat�
 
 #### 4. AET Kredileri
 
-Aylık Eşit Taksitli Krediler, kısaca AET Kredileri, hesaplanması karmaşık, anlaşılması kolay kredilerdir. Taksit tutarları, vadeleri ve faiz oranları sabittir. 6 aylık, 12 aylık gibi ödemesiz dönemleri olabilir. Adından da anlaşılacağı üzere müşteriye her ay eşit tutarlı taksitler sunulur. Fakat şubemiz tarafında eşit taksitli krediler ödendikçe anaparası azaldığı için faiz tutarı da azalmaktadır. Bu sebeple müşteri vade sonuna doğru daha az faiz öderken, şubemiz de aynı şekilde daha az faiz geliri elde etmektedir.
+Aylık Eşit Taksitli Krediler, kısaca AET Kredileri, hesaplanması karmaşık, anlaşılması kolay kredilerdir. Taksit tutarları, vadeleri ve faiz oranları sabittir. 6 aylık, 12 aylık gibi ödemesiz dönemleri olabilir. Adından da anlaşılacağı üzere müşteriye her ay eşit tutarlı taksitler sunulur. AET kredilerinin en büyük özelliği, ödendikçe anaparasının azalmasından kaynaklı faiz tutarının da azalmasıdır. Bu sebeple müşteri vade sonuna doğru daha az faiz öderken, şubemiz de aynı şekilde daha az faiz geliri elde etmektedir.
 
 Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı)^Vade)))
 
@@ -212,6 +212,40 @@ Hesaplamanın doğruluğunu yüzeysel de olsa kontrol etmek için taksit tutarı
 Özetle, 2.000.000 TL'lik kredinin müşteri için 36 aylık faiz gideri toplamı 265.390 TL'dir diyebiliriz. 265.390 TL'lik tutar bizim için brüt faiz geliridir.
 <br><br>
 
+BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Destekleme Fonu) kesintisi dahil edilirse formül aşağıdaki gibi yazılır.
+
+<br>
+
+Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı + BSMV Oranı + KKDF Oranı)^Vade)))
+
+<br>
+
+**Örnek (6)**: Faiz oranı aylık %1.14 olan 120 ay vadeli 4.000.000 TL tutarlı kredinin taksit tutarı nedir? (BSMV %5, KKDF %0)
+
+<br>
+
+Taksit Tutarı = 4.000.000 TL * %1.14 / (1 - (1 / ((1 + %1.14 + %5 + %0)^120 Ay)))
+<br>
+= 4000000 * 0.0114 / (1 - (1 / ((1 + 0.0114 + 0.05 + 0.00)^120)))
+<br>
+= 4000000 * 0.0114 / (1 - (1 / 1.0614^120))
+<br>
+= 4000000 * 0.0114 / (1 - (1 / 1274.94))
+<br>
+= 4000000 * 0.0114 / (1 - 0.0008)
+<br>
+= 4000000 * 0.0114 / 0.9992
+<br>
+≈ 45.636 TL
+<br><br>
+45.636 * 120 ay ≈ 5.476.295 TL anapara + faiz tutarıdır.
+<br><br>
+Özetle, 4.000.000 TL tutarlı kredi için 10. yılın sonunda müşteri toplamda 5.476.295 TL öderken şubemiz 1.476.295 TL brüt faiz geliri elde eder.
+<br><br>
+Faiz gelirinin %5'i BSMV'dir. %95'i net faiz gelirini belirtir.
+<br>
+1.476.295 * %95 ≈ 1.402.480 TL net faiz geliri tutarıdır.
+<br><br>
 
 
 

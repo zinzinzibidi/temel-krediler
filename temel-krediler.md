@@ -122,7 +122,7 @@ Faiz Tutarı = 80.000 TL * 40 gün * %18,50 / 360 ≈ 1644 TL
 
 Türk Ticaret Kanunu'na göre ileri vadeli çek, senet ve poliçe gibi ödeme araçlarının vade tarihine kadar olan faiz, komisyon ve vergilerinin düşüldükten sonra kalan tutarın müşteriye ödendiği kredi türüdür.
 
-İskonto, çekin, senedin ya da poliçenin şubemizle aynı belediye sınırında; iştira ise bu ödeme araçlarının farklı belediye sınırında keşide edilmesini belirtir.
+İskonto, çekin, senedin ya da poliçenin şubemizle aynı belediye sınırı içinde, iştira ise bu ödeme araçlarının farklı belediye sınırı içinde keşide edilmesini belirtir.
 
 İskonto - iştira kredilerinde kıymetli evrağın ödenmeme riski diğer kredilere göre daha yüksek olduğu için faiz oranları da göreceli daha yüksektir.
 

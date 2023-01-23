@@ -87,10 +87,10 @@ Faiz tahakkukunu hesaplayalım...
 Gün hesaplamaları için: [timeanddate.com](https://www.timeanddate.com/date/timeduration.html)
 
 18.03.2022 - 12.01.2022 = 65 gün
-Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ~= 542 TL
+Faiz Tutarı: 30.000 TL * 65 gün * %10 / 360 ≈ 542 TL
 
 18.03.2022 - 25.01.2022 = 52 gün
-Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ~= 722 TL
+Faiz Tutarı: 50.000 TL * 52 gün * %10 / 360 ≈ 722 TL
 
 31.03.2022 tarihinde müşteri hesabına 542 + 722 ~=1264 TL yansıtılır. Bu tarihte müşterinin hesabında 10.000 TL olduğu için hesap bakiyesi ~8736 TL'ye düşer.
 
@@ -110,9 +110,9 @@ Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşt
 
 > 16.11.2023 | Vade sonu gelir ve müşterinin hesabından anapara ve faiz tahsil edilir.
 
-Faiz Tutarı = 80.000 TL * 40 gün * %18,50 / 360 ~= 1644 TL
+Faiz Tutarı = 80.000 TL * 40 gün * %18,50 / 360 ≈ 1644 TL
 
-16 Kasım tarihinde müşteri şubemize 80.000 + ~1.644 ~= 81.644 TL ödemekle yükümlüdür.
+16 Kasım tarihinde müşteri şubemize 80.000 + ~1.644 ≈ 81.644 TL ödemekle yükümlüdür.
 
 <br>
 

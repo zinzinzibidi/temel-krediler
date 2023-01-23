@@ -106,7 +106,7 @@ Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşt
 
 <br>
 
-**Örnek (2)**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Bizde müşterimize krediyi tahsil edelim. Faiz oranı %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF vergilerini dahil etmeyelim.)
+**Örnek (2)**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Biz de krediyi müşterimize tahsil edelim. Faiz oranı yıllık %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF'yi dahil etmeyelim.)
 
 > 07.10.2023 | Müşterimize 80.000 TL'yi verdik. Para müşterinin hesabına yatırılır.
 

@@ -175,7 +175,7 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yat�
 
 #### 4. AET Kredileri
 
-Aylık Eşit Taksitli Krediler, kısaca AET Kredileri, hesaplanması karşmaşık fakat müşteriye sunulması basit kredilerdir. Taksit tutarları, vadeleri ve faiz oranları sabittir. 6 aylık, 12 aylık gibi ödemesiz dönemleri olabilir.
+Aylık Eşit Taksitli Krediler, kısaca AET Kredileri, hesaplanması karmaşık, anlaşılması kolay kredilerdir. Taksit tutarları, vadeleri ve faiz oranları sabittir. 6 aylık, 12 aylık gibi ödemesiz dönemleri olabilir. Adından da anlaşılacağı üzere müşteriye her ay eşit tutarlı taksitler sunulur. Fakat şubemiz tarafında eşit taksitli krediler ödendikçe anaparası azaldığı için faiz tutarı da azalmaktadır. Bu sebeple müşteri vade sonuna doğru daha az faiz öderken, şubemiz de aynı şekilde daha az faiz geliri elde etmektedir.
 
 Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı)^Vade)))
 

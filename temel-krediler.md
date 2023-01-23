@@ -142,7 +142,7 @@ t: Vade
 
 100.000 = PV * [1 + (%20 * 80 gün/360)] <br>
 PV = 100.000 / [1 + (.20 * 80/360)] <br>
-PV ~= 95.745 TL <br>
+PV ≈ 95.745 TL <br>
 
 Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yatırırız. Aradaki 4.255 TL'lik fark şubenin <code>net geliri</code>dir. Vade sonunda şube muhatap firmadan 100.000 TL çekini tahsil eder. Toplamda 100.000 TL + 4.255 = 104.255 TL gelir elde eder.
 
@@ -167,7 +167,7 @@ KKDF: KKDF Oranı
 
 100.000 = PV * [1 + ((%20 + %5 + %10) * 80 gün/360)] <br>
 PV = 100.000 / [1 + ((.20 + .05 + .10) * 80/360)] <br>
-PV ~= 92.784 TL <br>
+PV ≈ 92.784 TL <br>
 
 Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~92.783 TL yatırırız. Aradaki 7.217 TL'lik fark şubenin <code>brüt geliri</code>dir. Vade sonunda şube muhatap firmadan 100.000 TL çekini tahsil eder. Toplamda 100.000 TL + 7.217 = 107.217 TL gelir elde eder.
 
@@ -203,11 +203,11 @@ Taksit Tutarı = 2.000.000 TL * %0.69 / (1 - (1 / ((1 + 0.0069)^36 Ay)))
 <br>
 = 2000000 * 0.0069 / 0.2193
 <br>
-~= 62.927 TL
+≈ 62.927 TL
 <br><br>
 Hesaplamanın doğruluğunu yüzeysel de olsa kontrol etmek için taksit tutarını vade ile çarparız.
 <br><br>
-62.927 * 36 ay ~= 2.265.390 TL
+62.927 * 36 ay ≈ 2.265.390 TL
 <br><br>
 Özetle, 2.000.000 TL'lik kredinin müşteri için 36 aylık faiz gideri toplamı 265.390 TL'dir diyebiliriz. 265.390 TL'lik tutar bizim için brüt faiz geliridir.
 <br><br>

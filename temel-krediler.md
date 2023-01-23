@@ -104,6 +104,8 @@ Vade başında müşteriye verilen ve vade sonunda anapara + faiz tutarı ile ta
 
 Spot krediler nakit döngüsüne göre kullandırılmalıdır. Örneğin; müşterimizin nakit döngüsü 40 gün ise 40 gün vadeli spot kredi kullandırmalıyız. 10 gün ya da 90 gün süreli spot kredi kullandırmamalıyız. Bu sebeple spot kredide vade çok hassastır ve önemlidir.
 
+<br>
+
 **Örnek (2)**: Müşterinin nakit döngüsü 40 gündür ve hammadde satın alımı için 80.000 TL'ye ihtiyacı olduğunu şubemize iletmiştir. Bizde müşterimize krediyi tahsil edelim. Faiz oranı %18,50 olsun. (Kolaylık olması amacıyla BSMV ve KKDF vergilerini dahil etmeyelim.)
 
 > 07.10.2023 | Müşterimize 80.000 TL'yi verdik. Para müşterinin hesabına yatırılır.

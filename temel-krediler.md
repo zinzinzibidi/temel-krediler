@@ -242,7 +242,7 @@ Taksit Tutarı = 4.000.000 TL * %1.14 / (1 - (1 / ((1 + %1.14 + %5 + %0)^120 Ay)
 <br><br>
 Özetle, 4.000.000 TL tutarlı kredi için 10. yılın sonunda müşteri toplamda 5.476.295 TL öderken şubemiz 1.476.295 TL brüt faiz geliri elde eder.
 <br><br>
-Faiz gelirinin %5'i BSMV'dir. %95'i Bankamıza kalan faiz tutarıdır. 1.476.295 * %95 ≈ 1.402.480 TL net faiz geliri tutarıdır.
+Faiz gelirinin %5'i BSMV'dir. %95'i Bankamıza kalan net geliri belirtmektedir. 1.476.295 * %95 ≈ 1.402.480 TL net faiz geliri tutarıdır.
 <br><br>
 
 

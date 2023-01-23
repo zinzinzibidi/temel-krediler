@@ -146,7 +146,7 @@ PV ≈ 95.745 TL <br>
 
 Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yatırırız. Aradaki 4.255 TL'lik fark şubenin <code>net geliri</code>dir. Vade sonunda şube muhatap firmadan 100.000 TL çekini tahsil eder. Toplamda 100.000 TL + 4.255 = 104.255 TL gelir elde eder.
 
-<br><br>
+<br>
 
 **Örnek (4)**: Müşterinin başka bir firmadan 100.000 TL tutarlı ve 80 gün vadeli çek aldığını, şubemizde bu çeki kırdırmak istediğini varsayalım. Faiz oranını %20 belirleyelim. (BSMV %5, KKDF %10 olsun)
 

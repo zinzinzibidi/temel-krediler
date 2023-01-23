@@ -214,8 +214,6 @@ Hesaplamanın doğruluğunu yüzeysel de olsa kontrol etmek için taksit tutarı
 
 BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Destekleme Fonu) kesintisi dahil edilirse formül aşağıdaki gibi yazılır.
 
-<br>
-
 <code>Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı + BSMV Oranı + KKDF Oranı)^Vade)))</code>
 
 <br>

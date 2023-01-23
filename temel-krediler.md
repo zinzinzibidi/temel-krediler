@@ -209,7 +209,7 @@ Hesaplamanın doğruluğunu yüzeysel de olsa kontrol etmek için taksit tutarı
 <br><br>
 62.927 * 36 ay ≈ 2.265.390 TL
 <br><br>
-Özetle, 2.000.000 TL'lik kredinin müşteri için 36 aylık faiz gideri toplamı 265.390 TL'dir diyebiliriz. 265.390 TL'lik tutar bizim için brüt faiz geliridir.
+2.000.000 TL'lik kredinin müşteri için 36 aylık faiz gideri toplamı 265.390 TL'dir diyebiliriz. 265.390 TL'lik tutar bizim için brüt faiz geliridir.
 <br><br>
 
 BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Destekleme Fonu) kesintisi dahil edilirse formül aşağıdaki gibi yazılır.
@@ -240,7 +240,7 @@ Taksit Tutarı = 4.000.000 TL * %1.14 / (1 - (1 / ((1 + %1.14 + %5 + %0)^120 Ay)
 <br><br>
 45.636 * 120 ay ≈ 5.476.295 TL anapara + faiz tutarıdır.
 <br><br>
-Özetle, 4.000.000 TL tutarlı kredi için 10. yılın sonunda müşteri toplamda 5.476.295 TL öderken şubemiz 1.476.295 TL brüt faiz geliri elde eder.
+4.000.000 TL tutarlı kredi için 10. yılın sonunda müşteri toplamda 5.476.295 TL öderken şubemiz 1.476.295 TL brüt faiz geliri elde eder.
 <br><br>
 Faiz gelirinin %5'i BSMV'dir. %95'i Bankamıza kalan net geliri belirtmektedir.<br>1.476.295 * %95 ≈ 1.402.480 TL net faiz geliri, 1.476.295 - 1.402.480 ≈ 73.815 TL BSMV tutarıdır.
 <br><br>

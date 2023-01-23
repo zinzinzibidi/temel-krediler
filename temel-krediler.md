@@ -216,7 +216,7 @@ BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Deste
 
 <br>
 
-Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı + BSMV Oranı + KKDF Oranı)^Vade)))
+<code>Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı + BSMV Oranı + KKDF Oranı)^Vade)))</code>
 
 <br>
 

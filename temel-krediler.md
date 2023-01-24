@@ -1,4 +1,4 @@
-# TİCARİ KREDİLER
+# TEMEL KREDİLER
 Kaynak: [Halkakademi (Temel Krediler)](https://halkakademi.halkbank.com.tr/ablms/main/activity/9011)
 
 ---

@@ -267,8 +267,7 @@ Faiz gelirinin %5'i BSMV'dir. %95'i şubemize kalan net geliri belirtmektedir.<b
 
 ##### Excel'de AET Kredisi Hesaplama
 
-![alt text]([http://url/to/img.png](https://zinzinzibidi.com/img/temel-krediler/aet-excel-00.png))
-
+![Alt text](https://zinzinzibidi.com/img/temel-krediler/aet-excel-00.png?raw=true "Title")
 
 
 

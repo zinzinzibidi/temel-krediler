@@ -227,7 +227,7 @@ Hesaplamanın doğruluğunu yüzeysel de olsa kontrol etmek için taksit tutarı
 <br><br>
 61.339 * 120 ay ≈ 7.360.713 TL
 <br><br>
-4.000.000 TL'lik kredinin müşteri için 120 aylık faiz gideri toplamı 61.339 TL'dir diyebiliriz. 61.339 TL'lik tutar bizim için anapara + brüt faiz geliridir.
+4.000.000 TL'lik kredinin müşteri için 120 aylık faiz gideri toplamı 61.339 TL'dir diyebiliriz. 7.360.713 - 4.000.000 = 3.360.713 TL tutar bizim için brüt faiz geliridir.
 <br><br>
 
 BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Destekleme Fonu) kesintisi dahil edilirse formül aşağıdaki gibi yazılır.

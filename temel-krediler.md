@@ -271,8 +271,25 @@ Yukarıdaki soruyu Excel'de çözmek istersek ...
 
 <img src="https://zinzinzibidi.com/img/temel-krediler/aet-excel-00.png" style="width:480px"/>
 
-... Öncelikle görseldeki gibi basit bir tablo oluştururuz.
+... öncelikle görseldeki gibi basit bir tablo oluştururuz.
 
+<img src="https://zinzinzibidi.com/img/temel-krediler/aet-excel-01.png" style="width:480px"/>
+
+=DEVRESEL_ÖDEME() formülünün ilk parametresinde Faiz Oranı * (1 + BSMV + KKDF) işlemini uygularız.
+
+<img src="https://zinzinzibidi.com/img/temel-krediler/aet-excel-02.png" style="width:480px"/>
+
+İkinci parametre vadedir.
+
+<img src="https://zinzinzibidi.com/img/temel-krediler/aet-excel-03.png" style="width:480px"/>
+
+Son parametre bd (bugünkü değer) kısaltması ile gösterilen kredi tutarıdır. Kredi tutarının başına - (eksi) işareti koyarız.
+
+<img src="https://zinzinzibidi.com/img/temel-krediler/aet-excel-04.png" style="width:480px"/>
+
+Tüm parametreleri tamamladıktan sonra Enter'a basmamız yeterlidir.<br><br>
+
+Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 
 

@@ -209,7 +209,7 @@ Hesaplamaya daima sondan başlarız.
 
 <br>
 
-Taksit Tutarı = 2.000.000 TL * %0.69 / (1 - (1 / ((1 + 0.0069)^36 Ay)))
+Taksit Tutarı = 2000000 TL * %0.69 / (1 - (1 / ((1 + 0.0069)^36 Ay)))
 <br>
 = 2000000 * 0.0069 / (1 - (1 / ((1 + 0.0069)^36)))
 <br>
@@ -232,7 +232,7 @@ Hesaplamanın doğruluğunu yüzeysel de olsa kontrol etmek için taksit tutarı
 
 BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Destekleme Fonu) kesintisi dahil edilirse formül aşağıdaki gibi yazılır.
 
-<code>Taksit Tutarı = Anapara * Faiz Oranı / (1 - (1 / ((1 + Faiz Oranı + BSMV Oranı + KKDF Oranı)^Vade)))</code>
+<code>Taksit Tutarı = Anapara * Faiz Oranı * (1 + BSMV + KKDF) / (1 - (1 / (1 + (Faiz Oranı * (1 + BSMV + KKDF)))^Vade))</code>
 
 <br>
 
@@ -240,25 +240,29 @@ BSMV (Banka ve Sigorta Muameleleri Vergisi) ve KKDF (Kaynak Kullanımını Deste
 
 <br>
 
-Taksit Tutarı = 4.000.000 TL * %1.14 / (1 - (1 / ((1 + %1.14 + %5 + %0)^120 Ay)))
+Taksit Tutarı = 4000000 TL * %1.14 * (1 + %5 + %0) / (1 - (1 / (1 + (%1.14 * (1 + %5 + %0)))^120))
 <br>
-= 4000000 * 0.0114 / (1 - (1 / ((1 + 0.0114 + 0.05 + 0.00)^120)))
+= 4000000 * 0.0114 * (1 + 0.05 + 0.00) / (1 - (1 / (1 + (0.0114 * (1 + 0.05 + 0.00)))^120))
 <br>
-= 4000000 * 0.0114 / (1 - (1 / 1.0614^120))
+= 4000000 * 0.0114 * 1.05 / (1 - (1 / (1 + (0.0114 * 1.05))^120))
 <br>
-= 4000000 * 0.0114 / (1 - (1 / 1274.94))
+= 4000000 * 0.0114 * 1.05 / (1 - (1 / (1 + 0.0120)^120))
 <br>
-= 4000000 * 0.0114 / (1 - 0.0008)
+= 4000000 * 0.0114 * 1.05 / (1 - (1 / 1.0120^120))
 <br>
-= 4000000 * 0.0114 / 0.9992
+= 4000000 * 0.0114 * 1.05 / (1 - (1 / 4.1698))
 <br>
-≈ 45.636 TL
+= 4000000 * 0.0114 * 1.05 / (1 - 0.2398)
+<br>
+= 4000000 * 0.0114 * 1.05 / 0.7620
+<br>
+≈ 62.985 TL
 <br><br>
-45.636 * 120 ay ≈ 5.476.295 TL anapara + faiz tutarıdır.
+62.985 * 120 ay ≈ 7.558.199 TL anapara + faiz tutarıdır.
 <br><br>
-4.000.000 TL tutarlı kredi için 10. yılın sonunda müşteri toplamda 5.476.295 TL öderken şubemiz 1.476.295 TL brüt faiz geliri elde eder.
+4.000.000 TL tutarlı kredi için 10. yılın sonunda müşteri toplamda 7.558.199 TL öderken şubemiz 7.558.199 - 4.000.000 = 3.558.199 TL brüt faiz geliri elde eder.
 <br><br>
-Faiz gelirinin %5'i BSMV'dir. %95'i şubemize kalan net geliri belirtmektedir.<br>1.476.295 * %95 ≈ 1.402.480 TL net faiz geliri, 1.476.295 - 1.402.480 ≈ 73.815 TL BSMV tutarıdır.
+Faiz gelirinin %5'i BSMV'dir. %95'i şubemize kalan net geliri belirtmektedir.<br>3.558.199 * %95 ≈ 3.380.289 TL net faiz geliri, 3.558.199 - 3.380.289 ≈ 177.910 TL BSMV tutarıdır.
 <br><br>
 
 

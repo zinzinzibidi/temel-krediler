@@ -172,8 +172,6 @@ Sonuç olarak müşterinin çekini alırız. Müşteri hesabına ~95.745 TL yat�
 
 <code>FV = PV * [1 + ((r + BSMV + KKDF) * t/360)]</code>
 
-<br>
-
 FV: Gelecekteki Değer | 
 PV: Şimdiki Değer | 
 r: Faiz Oranı | 

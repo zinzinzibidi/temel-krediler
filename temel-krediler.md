@@ -287,7 +287,7 @@ Son parametre bd (bugünkü değer) kısaltması ile gösterilen kredi tutarıd�
 
 <img src="https://zinzinzibidi.com/img/temel-krediler/aet-excel-04.png" style="width:480px"/>
 
-Tüm parametreleri tamamladıktan sonra Enter'a basmamız yeterlidir.<br><br>
+Tüm parametreleri girdikten sonra Enter'a basmamız yeterlidir.<br><br>
 
 Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 

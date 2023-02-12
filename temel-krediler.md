@@ -53,6 +53,18 @@ Android kullanıcıları ücretsiz sunulan [Bilimsel hesap makinesi 991](https:/
 
 ---
 
+## Vergiler
+
+**BSMV**: Banka ve Sigorta Muameleleri Vergisi. 6802 sayılı Gider Vergileri Kanunu'nun 28, 29, 30, 31, 32 ve 33üncü maddelerine dayanır.
+
+> Madde 28 – (Değişik birinci fıkra: 3/6/1986 - 3297/16 md.) Banka ve sigorta şirketlerinin 
+10/6/1985 tarihli ve 3226 sayılı Finansal Kiralama Kanununa göre yaptıkları işlemler hariç olmak 
+üzere, her ne şekilde olursa olsun yapmış oldukları bütün muameleler dolayısıyla kendi lehlerine her 
+ne nam ile olursa olsun nakden veya hesaben aldıkları paralar banka ve sigorta muameleleri vergisine 
+tabidir
+
+---
+
 ## Kredi Çeşitleri
 
 Krediler ikiye ayrılır:

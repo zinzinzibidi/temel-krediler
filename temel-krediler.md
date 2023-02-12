@@ -293,6 +293,8 @@ Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 Ödemesiz dönemli aylık eşit taksitli kredi hesaplamaları için aşağıdaki Excel çalışma kitabını kullanabiliriz:
 
+<a link="https://github.com/zinzinzibidi/temel-krediler/raw/main/AETK%20%C3%96rnek%20%C3%96deme%20Tablosu.xlsx" target="_blank">AETK Örnek Ödeme Tablosu (Excel)</a> 
+
 
 
 

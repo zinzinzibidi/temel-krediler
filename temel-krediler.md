@@ -351,4 +351,4 @@ Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 
 [^1]: CDS: Credit Default Swap, Kredi Temerrüt Takası
-[^2]: https://www.logo.com.tr/blog-detay/kaynak-kullanimini-destekleme-fonu-kkdf-nedir-nasil-hesaplanir
+[^2]: [Kaynak Kullanımını Destekleme Fonu (KKDF) nedir, nasıl hesaplanır?](https://www.logo.com.tr/blog-detay/kaynak-kullanimini-destekleme-fonu-kkdf-nedir-nasil-hesaplanir)

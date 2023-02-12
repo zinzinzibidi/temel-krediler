@@ -289,6 +289,10 @@ Tüm parametreleri girdikten sonra Enter'a basmamız yeterlidir.<br>
 
 Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
+#### 4.2. Ödemesiz Dönemli AET Kredileri 
+
+Ödemesiz dönemli aylık eşit taksitli kredi hesaplamaları için aşağıdaki Excel çalışma kitabını kullanabiliriz:
+
 
 
 

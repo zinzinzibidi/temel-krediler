@@ -288,6 +288,7 @@ Son parametre bd (bugünkü değer) kısaltması ile gösterilen kredi tutarıd�
 Tüm parametreleri girdikten sonra Enter'a basmamız yeterlidir.<br>
 
 Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
+<br><br>
 
 #### 4.2. Ödemesiz Dönemli AET Kredileri 
 

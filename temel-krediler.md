@@ -78,7 +78,7 @@ ayrı ayrı veya birlikte % 1'e, kambiyo muamelelerinde ise sıfıra kadar indir
 
 > Merkez Bankası, Kaynak Kullanımını Destekleme Fonu uygulamasını bir kredi ve para politikası aracı olarak 1988 yılında uygulamaya koymuştur. Merkez Bankası KKDF’yi 2002 yılına kadar takip edip uygulamasını fiilen yürütmüştür. 2002 yılından sonra ise KKDF takip ve tahsilatı Maliye Bakanlığı’na devredilmiştir.[^2]
 
-1988 yılında uygulamaya koyulan Türkiye Cumhuriyet Merkez Bankası aracıdır. BSMV'de olduğu gibi kredi faizi üzerinden alınır. Güncel oran %0'dır. Bankalar tarafından T.C. Hazine ve Maliye Bakanlığı'na ödenir.
+1988 yılında uygulamaya konulan Türkiye Cumhuriyet Merkez Bankası kredi ve para politikası aracıdır. BSMV'de olduğu gibi kredi faizi üzerinden alınır. Güncel oran %0'dır. Bankalar tarafından T.C. Hazine ve Maliye Bakanlığı'na ödenir.
 
 ---
 

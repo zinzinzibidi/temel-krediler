@@ -55,7 +55,9 @@ Android kullanıcıları ücretsiz sunulan [Bilimsel hesap makinesi 991](https:/
 
 ## Vergiler
 
-**BSMV**: Banka ve Sigorta Muameleleri Vergisi. 6802 sayılı Gider Vergileri Kanunu'nun 28, 29, 30, 31, 32 ve 33üncü maddelerine dayanır.
+**BSMV**: Banka ve Sigorta Muameleleri Vergisi
+
+6802 sayılı Gider Vergileri Kanunu'nun 28, 29, 30, 31, 32 ve 33üncü maddelerine dayanır.
 
 > Madde 28 – (Değişik birinci fıkra: 3/6/1986 - 3297/16 md.) Banka ve sigorta şirketlerinin 
 10/6/1985 tarihli ve 3226 sayılı Finansal Kiralama Kanununa göre yaptıkları işlemler hariç olmak 
@@ -74,7 +76,7 @@ ayrı ayrı veya birlikte % 1'e, kambiyo muamelelerinde ise sıfıra kadar indir
 
 <br>
 
-**KKDF**: Kaynak Kullanımını Destekleme Fonu. 
+**KKDF**: Kaynak Kullanımını Destekleme Fonu
 
 > Merkez Bankası, Kaynak Kullanımını Destekleme Fonu uygulamasını bir kredi ve para politikası aracı olarak 1988 yılında uygulamaya koymuştur. Merkez Bankası KKDF’yi 2002 yılına kadar takip edip uygulamasını fiilen yürütmüştür. 2002 yılından sonra ise KKDF takip ve tahsilatı Maliye Bakanlığı’na devredilmiştir.[^2]
 

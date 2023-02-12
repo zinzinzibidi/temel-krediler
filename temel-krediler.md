@@ -74,7 +74,11 @@ ayrı ayrı veya birlikte % 1'e, kambiyo muamelelerinde ise sıfıra kadar indir
 
 <br>
 
-BSMV, 1986 yılından beri Bankacılık sektöründe uygulanmaktadır. Sadece Bankaların faiz geliri üzerinden alınır. Güncel oran %5'tir.
+1986 yılından beri Bankacılık sektöründe uygulanmaktadır. Bankaların faiz geliri üzerinden alınır. Kredi tutarı üzerinden alınmaz. Güncel oran %5'tir. Bankalar tarafından T.C. Hazine ve Maliye Bakanlığı'na ödenir.
+
+**KKDF**: Kaynak Kullanımını Destekleme Fonu. 
+
+> Merkez Bankası, Kaynak Kullanımını Destekleme Fonu uygulamasını bir kredi ve para politikası aracı olarak 1988 yılında uygulamaya koymuştur. Merkez Bankası KKDF’yi 2002 yılına kadar takip edip uygulamasını fiilen yürütmüştür. 2002 yılından sonra ise KKDF takip ve tahsilatı Maliye Bakanlığı’na devredilmiştir.[^2]
 
 ---
 
@@ -345,3 +349,4 @@ Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 
 [^1]: CDS: Credit Default Swap, Kredi Temerrüt Takası
+[^2]: https://www.logo.com.tr/blog-detay/kaynak-kullanimini-destekleme-fonu-kkdf-nedir-nasil-hesaplanir

@@ -53,7 +53,7 @@ Android kullanıcıları ücretsiz sunulan [Bilimsel hesap makinesi 991](https:/
 
 ---
 
-## Vergiler
+## Kredilerde Vergiler ve Kesintiler
 
 **BSMV**: Banka ve Sigorta Muameleleri Vergisi
 

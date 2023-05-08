@@ -325,7 +325,11 @@ Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 [AETK Örnek Ödeme Tablosu (Excel)](https://github.com/zinzinzibidi/temel-krediler/raw/main/AETK%20%C3%96rnek%20%C3%96deme%20Tablosu.xlsx)
 
+<br><br>
 
+#### 5. Gün İçi Kredileer
+
+Aylık Eşit Taksitli Krediler, kısaca A
 
 
 

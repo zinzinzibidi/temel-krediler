@@ -292,7 +292,7 @@ Taksit Tutarı = 4000000 TL * %1.14 * (1 + %5 + %0) / (1 - (1 / (1 + (%1.14 * (1
 Faiz gelirinin %5'i BSMV'dir. %95'i şubemize kalan net geliri belirtmektedir.<br>3.558.199 * %95 ≈ 3.380.289 TL net faiz geliri, 3.558.199 - 3.380.289 ≈ 177.910 TL BSMV tutarıdır.
 <br><br>
 
-#### 4.1. Excel'de AET Kredisi Hesaplama
+##### 4.1. Excel'de AET Kredisi Hesaplama
 
 Yukarıdaki soruyu Excel'de çözmek istersek ...
 
@@ -319,7 +319,7 @@ Tüm parametreleri girdikten sonra Enter'a basmamız yeterlidir.<br>
 Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 <br><br>
 
-#### 4.2. Ödemesiz Dönemli AET Kredileri 
+##### 4.2. Ödemesiz Dönemli AET Kredileri 
 
 Ödemesiz dönemli aylık eşit taksitli kredi hesaplamaları için aşağıdaki Excel çalışma kitabını kullanabiliriz:
 
@@ -370,6 +370,12 @@ Tüketici kredileri
 * Konut Kredisi
 
 olmak üzere üç farklı alt türde kullandırılır.
+
+Sadece konut kredileri BSMV'den istisnadır. Diğer tüm kredilerin faiz tutarlarında BSMV hesaplanır.
+
+<br>
+
+####
 
 
 

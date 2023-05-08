@@ -345,7 +345,22 @@ Nakit Yönetim Kredileri özü itibariyle 1 günlük faizsiz rotatif kredilerdir
 
 #### 7. DBS
 
-Açılımı "Doğrudan Borçlanma Sistemi" olan DBS geniş bayi müşteri ağı bulunan firmalar için oluşturulan otomatik tahsilat sistemidir. Kredili ve kredisiz olmak üzere iki farklı uygulanma şekli vardır. 
+Açılımı "Doğrudan Borçlanma Sistemi" olan DBS geniş bayi müşteri ağı bulunan firmalar için oluşturulan otomatik tahsilat sistemidir. Kredili ve kredisiz olmak üzere iki farklı uygulanma şekli vardır. Kredisiz olması durumunda müşterinin hesabında yeterli bakiye olma zorunluluğu vardır. Müşterinin hesabında yeterli bakiye varsa fatura müşterinin hesabından otomatik düşer. Fakat yeterli bakiye bulunmamaktaysa faturanın ödenmesi mümkün değildir. Bu yüzden DBS çoğunlukla kredili uygulanmaktadır. Bir fatura kesildiğinde müşteriye tahsil edilen limitin içerisinden fatura ödemesi gerçekleşir. Ay sonunda gerçekleşen DBS ödemelerinin faiz tahsilatı sağlanır. Avantajı müşterilerin teminat mektubu kullanmadan DBS limiti ile ana firmadan mal alması sağlanır. Ana firmalarının en büyük avantajı bu teminat mektuplarının sürelerini takip etme zorunluluğu ortadan kalkar. Bu nedenle büyük müşteri ağına sahip firmaların çok fazla tercih ettiği ödeme yöntemidir.
+
+<br>
+
+#### 8. Dövize Endeksli Krediler
+
+Türk Parasını Koruma Kanunu'na göre döviz cinsinden kredi kullandırılması yasaktır. Ancak ihracat yapan ve döviz girişi sağlayan istisna firmalar döviz kredisi kullanabilir. Döviz kredisi kullanamayan firmalar ise bu krediye benzeyen dövize endeksli kredi kullanabilmektedir.
+
+Dövize Endeksli Krediler aslen TL kredidir. Ancak kullanıldığı gündeki döviz kuru ile TL kredi karşılığında döviz olarak hesaplanır müşterinin hesabına döviz olarak geçer. Taksit dönemlerinde başta anlaşılan tutar kadar TL tutar dövize çevirilir ve taksitler tahsil edilir.
+
+2008 yılına kadar bireysel müşteriler de dövize endeksli kredi kullanabilirken 2008 yılında yaşanan küresel likidite krizi sonrası 2009 yılından itibaren bireysel müşterilere dövize endeksli kredi kullandırımı yasaklanmıştır. Bu nedenle bu krediyi sadece kurumsal müşteriler kullanabilmektedir.
+
+<br>
+
+#### 9. Tüketici Kredileri
+
 
 
 

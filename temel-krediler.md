@@ -361,8 +361,15 @@ Dövize Endeksli Krediler aslen TL kredidir. Ancak kullanıldığı gündeki dö
 
 #### 9. Tüketici Kredileri
 
+Gerçek kişilerin ticari amaçlar dışında kullandıkları sabit faizli kredilerdir. Genellikle aylık eşit taksitli krediler (AETK) ile ödenir. AETK bireysel müşteriler tarafından kullanılırsa adı tüketici kredisi, firma tarafından kullanılırsa Aylık Eşit Taksitli Ticari Kredi olur.
 
+Tüketici kredileri
 
+* İhtiyaç Kredisi
+* Taşıt Kredisi
+* Konut Kredisi
+
+olmak üzere üç farklı alt türde kullandırılır.
 
 
 

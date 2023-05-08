@@ -377,7 +377,7 @@ Sadece konut kredileri BSMV'den istisnadır. Diğer tüm kredilerin faiz tutarla
 
 #### 10. Kredili Mevduat Hesabı
 
-KMH olarak kısaltılan kredili mevduat hesabı ile müşterinin vadesiz hesabı belirli limitler dahilinde eksiye düşer ve müşteri bu limitler dahilinde kısa vadeli nakit ihtiyaçlarını karşılar. KMH hesabı artıya çıkmadığı sürecec faiz işler ve her ay sonunda KMH hesabının faizi müşteriden tahsil edilir. Faiz tutarının hesaplanması BCH ile aynıdır. Fakat BCH'dan farkı faiz tahakkuklarının 3 ayda bir yerine aylık tahsil edilmesidir.
+KMH olarak kısaltılan kredili mevduat hesabı ile müşterinin vadesiz hesabı belirli limitler dahilinde eksiye düşer ve müşteri bu limitler dahilinde kısa vadeli nakit ihtiyacını karşılar. KMH hesabı artıya çıkmadığı sürecec faiz işler ve her ay sonunda KMH hesabının faizi müşteriden tahsil edilir. Faiz tutarının hesaplanması BCH ile aynıdır. Fakat BCH'dan farkı faiz tahakkuklarının 3 ayda bir yerine aylık tahsil edilmesidir.
 
 KMH'ın BCH'dan ayrıldığı en büyük nokta müşteri rotatif kredi kullanırken talimatta bulunmak zorundadır. KMH'ta ise talimat zorunluluğu bulunmamaktadır.
 

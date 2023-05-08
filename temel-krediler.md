@@ -329,11 +329,23 @@ Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 #### 5. Gün İçi Krediler
 
-Gün içerisinde nakite ihtiyacı olan müşteriler için uygulanan kredilerdir. Gün içerisinde kullanılıp ödendiği takdirde faiz işlememektedir. Fakat gün içerisinde ödenmediği takdirde gün içi kredi, rotatif krediye dönüşmektedir. Müşteriye jest amaçlı kullandırılmakla birlikte asıl amaç müşteri sadakati sağlanmaktır. Günümüzde bu kredi yerine kredili mevduat hesabı (KMH) kullanılmaktadır.
+Gün içerisinde nakit ihtiyacı olan müşteriler için uygulanan kredilerdir. Gün içerisinde kullanılıp ödendiği takdirde faiz işlememektedir. Fakat gün içerisinde ödenmediği takdirde gün içi kredi, rotatif krediye dönüşmektedir. Müşteriye jest amaçlı kullandırılmakla birlikte asıl amaç müşteri sadakati sağlanmaktır. Günümüzde bu kredi yerine kredili mevduat hesabı (KMH) kullanılmaktadır.
 
-<br><br>
+<br>
 
 #### 6. Nakit Yönetim Kredileri
+
+Müşterinin SGK, elektrik, su, vergi gibi otomatik ödemelerini aldığımızda müşteriden tahsil ettiğimiz tutarları ilgili kurumlara aynı gün yatırmayız. Kurumlarla anlaşmamız olduğu için bu paraları birkaç gün bekletir, ardından kurumlara öderiz. Örneğin; müşteri 26 Haziran 2024 Çarşamba günü tahakkuk eden KDV vergisini ödediğinde biz vergi dairesine bu paranın ödendiğini bildiririz fakat ilgili tutarı vergi dairesine 3 iş günü sonra, yani 1 Temmuz 2024 Pazartesi günü yatırırız. Şube olarak 27 Haziran Perşembe, 28 Haziran Cuma ve 1 Temmuz Pazartesi KDV tutarı kadar vadesiz kaynak yaratılır.
+
+Nakit yönetimi kredisinde müşteri ile anlaşma yapılır. Müşteri vergisini 26 Haziran 2024 Çarşamba günü yerine 27 Haziran 2024 Perşembe günü ödenecek şekilde parasını getirir. Bu şekilde müşteri faizsiz olarak 1 günlük kredi kullanılır. Buradaki amaç müşterinin otomatik ödemelerini bankamıza çekmek ve müşteriye jest yapmaktır.
+
+Nakit Yönetim Kredileri özü itibariyle 1 günlük faizsiz rotatif kredilerdir.
+
+<br>
+
+#### 7. DBS
+
+Açılımı "Doğrudan Borçlanma Sistemi" olan DBS geniş bayi müşteri ağı bulunan firmalar için oluşturulan otomatik tahsilat sistemidir. Kredili ve kredisiz olmak üzere iki farklı uygulanma şekli vardır. 
 
 
 

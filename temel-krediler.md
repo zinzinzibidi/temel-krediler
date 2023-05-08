@@ -327,9 +327,15 @@ Excel'deki sonuç hesap makinesi ile hesapladığımız sonuç ile aynıdır.
 
 <br>
 
-#### 5. Gün İçi Kredileer
+#### 5. Gün İçi Krediler
 
-Aylık Eşit Taksitli Krediler, kısaca A
+Gün içerisinde nakite ihtiyacı olan müşteriler için uygulanan kredilerdir. Gün içerisinde kullanılıp ödendiği takdirde faiz işlememektedir. Fakat gün içerisinde ödenmediği takdirde gün içi kredi, rotatif krediye dönüşmektedir. Müşteriye jest amaçlı kullandırılmakla birlikte asıl amaç müşteri sadakati sağlanmaktır. Günümüzde bu kredi yerine kredili mevduat hesabı (KMH) kullanılmaktadır.
+
+<br><br>
+
+#### 6. Nakit Yönetim Kredileri
+
+
 
 
 
